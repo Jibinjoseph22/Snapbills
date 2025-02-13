@@ -24,7 +24,7 @@ SnapBills is a **Flutter-based Android application** designed to simplify **expe
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/snapbills.git
+   git clone https://github.com/jibinjoseph22/snapbills.git
    cd snapbills
    ```
 
