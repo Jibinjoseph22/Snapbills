@@ -72,7 +72,7 @@ This project is licensed under the **MIT License** – see the [`LICENSE`](LICEN
 
 For any issues or suggestions, feel free to **raise an issue** or **contact me at**: 
 📧 jibinjoseph2246@gmail.com   
-📂 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jibinjoseph2))  
+📂 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jibinjoseph2])  
 
 ---
 Made with ❤️ using Flutter & Firebase.
